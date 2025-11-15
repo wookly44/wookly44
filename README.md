@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wookly44&show_icons=true&theme=tokyonight" alt="wookly44's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wookly44&layout=compact&hide=other&theme=tokyonight" alt="Top languages" />
 </p>
 
