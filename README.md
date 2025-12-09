@@ -56,4 +56,4 @@
   📫 Contact: goldweek49@google.com · <a href="https://your-portfolio.link">Portfolio</a>
 </p>
 
-<img src="https://github.com/user-attachments/assets/a17a514b-7148-4269-993e-d07cf77a97db" width="250" align="right" style="float:right;margin-top:-100px;">
+<img src="https://github.com/user-attachments/assets/a17a514b-7148-4269-993e-d07cf77a97db" width="250" align="right">
