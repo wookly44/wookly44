@@ -4,10 +4,6 @@
   •<br/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wookly44&layout=compact&hide=other&theme=tokyonight" alt="Top languages" />
-</p>
-
 <!-- My Stack -->
 <p align="center">
   <strong>✨My Stack</strong>
