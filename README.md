@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Frontend%20dev%20·%20UI%20lover%20·%20Problem%20solver%20💕&fontSize=30" /><br/>
-  •<br/>
-  •<br/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Frontend%20dev%20·%20UI%20lover%20·%20Problem%20solver%20💕&fontSize=30" />
+  <br/>•<br/>•<br/>
 </p>
 
 <!-- My Stack -->
@@ -56,3 +55,5 @@
 <p align="center">
   📫 Contact: goldweek49@google.com · <a href="https://your-portfolio.link">Portfolio</a>
 </p>
+
+<img src="https://github.com/user-attachments/assets/a17a514b-7148-4269-993e-d07cf77a97db" width="250" align="right" style="float:right;margin-top:-100px;">
