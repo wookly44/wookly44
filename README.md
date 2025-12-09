@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Frontend%20dev%20·%20UI%20lover%20·%20Problem%20solver%20💕&fontSize=30" />
-  <br/>•<br/>•<br/>
+  <br/><br/>
 </p>
 
 <!-- My Stack -->
-<p align="center">
+<p align="left">
   <strong>✨My Stack</strong>
 </p>
-<div align="center">
+<div align="left">
   <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center;max-width:900px;margin:8px auto;">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFC1CC?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFD8A8?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,22 +26,26 @@
   </div>
 </div><br/>
 
+<img src="https://github.com/user-attachments/assets/a17a514b-7148-4269-993e-d07cf77a97db" width="250" align="right">
+
 <!-- Learning -->
-<p align="center">
+<p align="left">
   <strong>🖊️Learning</strong>
 </p>
-<div align="center">
+<div align="left">
   <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center;max-width:900px;margin:8px auto;">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-BFEAF5?style=for-the-badge&logo=typescript&logoColor=black"/>
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-E8D7FF?style=for-the-badge&logo=next.js&logoColor=black"/>
   </div>
-</div><br/>
+</div>
+
+<br/>
 
 <!-- Tools -->
-<p align="center">
+<p align="left">
   <strong>🧸Tools</strong>
 </p>
-<div align="center">
+<div align="left">
   <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center;max-width:900px;margin:8px auto;">
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-CFEFFF?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
     <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-FFEDEB?style=for-the-badge&logo=phpstorm&logoColor=black"/>
@@ -51,9 +55,8 @@
   </div>
 </div>
 
-<br>
-<p align="center">
+<br><br><br>
+
+<p align="left">
   📫 Contact: goldweek49@google.com · <a href="https://your-portfolio.link">Portfolio</a>
 </p>
-
-<img src="https://github.com/user-attachments/assets/a17a514b-7148-4269-993e-d07cf77a97db" width="250" align="right">
